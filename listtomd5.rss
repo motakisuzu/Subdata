@@ -9,7 +9,7 @@
       <title>The latest video from an artist</title>
       <link>www.anc.com</link>
       <media:content url="https://lh3.googleusercontent.com/Ahdxo56tZtv-tmbGGwvfHzFCjtcQcy8c16nD9HJUv9UlQcNCkHWXSZHP5oRZeFAu4z0pIZko_IJnRbY58file5DIO8z76TYSDTA1aW13YxhB07QmYPVcNKaij0r0gynUgiyY9-JePWw=m37" fileSize="12216320" type="video/mp4" expression="full">
-        <media:player url="http://www.foo.com/player?id=1111" height="100%" width="100%" />
+        <media:player url="//content.jwplatform.com/libraries/7O47fn63.js" height="100%" width="100%" />
         <media:hash algo="md5">dfdec888b72151965a34b4b59031290a</media:hash>
         <media:credit role="producer">producer's name</media:credit>
         <media:credit role="artist">artist's name</media:credit>
