@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="us">
+	<head>
+		<meta charset="utf-8">
+		<title>Video im JW Player - HLS/MP4/WEBM/OGG</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<style type="text/css">
+		<!--
+		#playerContainer { margin:0 auto; width:640px !important; height:360px !important; }
+		#playerContainer_wrapper { margin:0 auto; width:100% !important; height:100% !important;  }
+		//-->
+		</style>
+<script src="https://content.jwplatform.com/libraries/6HXwejUF.js"></script>
+<script>jwplayer.key="l/yCSG9ozZl74GUwJtxhlEexGjE3yuv5WLZIqA==";</script>
+	</head>
+	<body align="center"><div id='player'></div>
+<script src="https://content.jwplatform.com/libraries/6HXwejUF.js"></script>
+<script>jwplayer.key="l/yCSG9ozZl74GUwJtxhlEexGjE3yuv5WLZIqA==";</script>
+<script type='text/javascript'>
+  jwplayer('player').setup({
+            sources: [{file: "https://lh3.googleusercontent.com/UVASPgR-urn6bZ1AnMbIZsK7hKw-r4V0ji0N-A0LOrpiOsLyZX0ItiPujR4Vadv8-YRex1Ke5ryHj_-0mvWa8PN5jcrdkJ3UsyQy8pXQAI-AUuCyGn8C1NumHzdKBTFWN3hY_DpgN2U=m37", type: 'video/mp4'},],
+                tracks:
+                [
+                    {
+                        file: "", default: 'true', label: 'VietNamese'
+                    },
+                ],
+image: 'https://1.bp.blogspot.com/-tkrekffwtJ4/XXIGYI8-AkI/AAAAAAAAAqQ/ecnHYG8ULSsMalBf7s_9YH8nP-_cpG5UQCLcBGAs/s0/miae-307pl.jpg',
+title: "",
+  displaytitle: true,
+  type: "application/x-mpegURL",
+   width: '100%',
+   height: '100%',
+   aspectratio: '16:9',
+allowscriptaccess: 'always',
+wmode: 'opaque',
+   aspectratio: '16:9',
+allowscriptaccess: 'always',
+wmode: 'opaque',
+skin: 'bekle', 
+autostart: 'true',
+  stagevideo: 'true',
+  stretching: "uniform",
+  preload: "auto",
+  primary: "html5",
+    sharing: {
+      link: 'link post'
+   },
+   logo: {
+    file: 'link logo',
+    link: 'link blog',
+position: 'top-right',
+margin: '5'
+   }
+  });
+</script>
+	</body>
+</html>
